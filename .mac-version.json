@@ -1,0 +1,83 @@
+{
+  "main": "outliers-gather-02-basics",
+  "main_commit": "d4840c8f0f3de85aa5f1f3205a743dc588c7debd",
+  "mac": "outliers-gather-02-basics-mac",
+  "macgen_commit": "d826836+uncommitted",
+  "date": "2026-09-26",
+  "fingerprint": "55412e20a8671920339e71146540e883c647666a0e8720fb604e1087d7f2e45d",
+  "left_out_of_fingerprint": [
+    ".mac-version.json"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "category": "same",
+      "sha256": "e664118722da6bf945bd9d4cf36a4e6a534e5abaeefc47f170b4ff1adda3134d"
+    },
+    {
+      "path": ".gitignore",
+      "category": "same",
+      "sha256": "19ad5a40ca5026633b3861d5d5690bb8cb5932bc256674ff5008384ad9ad6135"
+    },
+    {
+      "path": "README.md",
+      "category": "changed",
+      "sha256": "fc5d690afa595ae1d11d4f1d2de987a15f08bf66e04422c82e61655dac4a91d8"
+    },
+    {
+      "path": "WHAT-I-STOLE.md",
+      "category": "same",
+      "sha256": "9548c34f324b8c4af9586adc1da79898eadb0c95ce3e26405dc93ee30e7d4997"
+    },
+    {
+      "path": "engine/gather.py",
+      "category": "same",
+      "sha256": "ebd7ff4179da78ef3aa36639dfe3fec1fc3f4b760b32dcf42d06f8976a87bbf7"
+    },
+    {
+      "path": "engine/gather_accepted.py",
+      "category": "same",
+      "sha256": "8fcb8047d7ed55e4a8267aaa4516c504507348557818fed084fc9facdbd39aca"
+    },
+    {
+      "path": "engine/gather_ask.py",
+      "category": "same",
+      "sha256": "5de8e33efee3a08644f537fe5ca7642a4e5983fb988c0864375dfa5398bc0205"
+    },
+    {
+      "path": "engine/gather_find.py",
+      "category": "same",
+      "sha256": "16dc23fdd02bd17bf7467b74f93f29609e2c6c824c08caea555ae2448a22724b"
+    },
+    {
+      "path": "engine/gather_job.py",
+      "category": "same",
+      "sha256": "b5e95c3469e88c035713d47a5c99298c6dd0dfda469ef59e56b9948b924a917b"
+    },
+    {
+      "path": "engine/gather_pending.py",
+      "category": "same",
+      "sha256": "d2714c35891ecacdd2caca2bb0a258028ae4fd5794814cee61149e5a58270c73"
+    },
+    {
+      "path": "engine/gather_record.py",
+      "category": "same",
+      "sha256": "42bbe54421f7acc11d0a25570c5d77c7e5fcc88398a6dcfed92a2251548e22c5"
+    },
+    {
+      "path": "engine/gather_undo.py",
+      "category": "same",
+      "sha256": "d9291f031d6d781b5c1ca3e3a30bf15e556460743fc252ddefc9bb8558282a44"
+    },
+    {
+      "path": "install.py",
+      "category": "same",
+      "sha256": "b2a411469759bd30e25d3e1eee6b7a09a25f18eb96a793e30ba3ef5112dc5ca4"
+    },
+    {
+      "path": "tests/test_jobs.py",
+      "category": "same",
+      "sha256": "5e23f1aee8dc9786d92f880d336760f271c51c3d45926acd549c6b2ba4fbadb4"
+    }
+  ]
+}

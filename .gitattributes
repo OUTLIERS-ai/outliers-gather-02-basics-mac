@@ -1,0 +1,7 @@
+# Line endings are decided here rather than by whichever machine cloned the repo.
+# Without this, git rewrites them on checkout, and any check that compares a shipped
+# file to an installed one sees a difference that is not there. That passed for the
+# author and failed for every member who cloned it.
+* text=auto eol=lf
+*.pdf binary
+*.png binary
